@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Employee</string>
+    <string name="latitude">Latitude</string>
+
+    <string name="longitude">Longitude</string>
+
+    <string name="city">Present Location</string>
+
+    <string name="no_text"> </string>
+</resources>
